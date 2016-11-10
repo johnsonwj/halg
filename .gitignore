@@ -17,6 +17,9 @@ cabal.sandbox.config
 *.eventlog
 .stack-work/
 
+# Editor configuration
+.vscode/
+
 # =========================
 # Operating System Files
 # =========================
