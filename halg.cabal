@@ -17,7 +17,8 @@ cabal-version:       >=1.10
 
 library
   exposed-modules:
-    Halg.MergeSort, Halg.TwoThreeBST
+    Halg.Sort.MergeSort,
+    Halg.TwoThreeBST
   -- other-modules:       
   -- other-extensions:    
   build-depends:       base >=4.9 && <4.10
